@@ -74,8 +74,8 @@ body.with-slideshow #header{
 #site-name{
   margin-left:4px;
   font-size:35px;
-  font-weight:lighter;
   line-height:normal;
+  font-weight:normal;
   float:left;
 }
 

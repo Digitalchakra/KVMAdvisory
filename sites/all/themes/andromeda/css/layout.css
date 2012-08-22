@@ -6,7 +6,7 @@ body{
   margin:0;
   padding: 0;
   color: #363636;
-  font-family: Arial,Tahoma,Verdana;
+  font-family: Verdana,Tahoma,Arial;
   font-size: 12px;
   background:url('../images/bg-not-front.gif') no-repeat center top #F5F5F5;
 }
